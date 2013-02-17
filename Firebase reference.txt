@@ -1,0 +1,9 @@
+Firebase reference
+
+masterFB
+	players
+		deviceNum - incrementor at the current player that joins
+	round
+		currentRound - current round number
+		ZZZ - the current round, containing the roundPhrase and people's phrases
+		...

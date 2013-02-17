@@ -1,0 +1,13 @@
+Firebase reference
+
+masterFB
+	players
+		connected
+			... - times the app was opened
+		judge
+		
+
+	round
+		currentRound - current round number
+		ZZZ - the current round, containing the roundPhrase and people's phrases
+		...
