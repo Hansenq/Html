@@ -11,7 +11,7 @@ var cahPromptsPointer = 0;
 // Executes on initialization (opening app)
 
 
-var firebase = new Firebase('https://wpcah.firebaseio.com/');
+var firebase = new Firebase('https://wpcah.firebaseio.com');
 
 // Testing whether or not firebase works! remove once working
 firebase.push({
